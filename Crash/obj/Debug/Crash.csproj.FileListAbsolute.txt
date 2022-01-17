@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\bin\Debug\Crash.dll
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\bin\Debug\Crash.pdb
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\bin\Debug\AdvancedBot.exe
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\bin\Debug\Jint.dll
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\bin\Debug\AdvancedBot.pdb
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\bin\Debug\AdvancedBot.exe.config
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\obj\Debug\Crash.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\obj\Debug\Crash.csproj.CopyComplete
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\obj\Debug\Crash.dll
+C:\Users\Admin\Documents\AB\Plugins\Crash\Crash\obj\Debug\Crash.pdb
